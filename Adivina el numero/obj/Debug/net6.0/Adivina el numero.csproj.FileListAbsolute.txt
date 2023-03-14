@@ -1,0 +1,15 @@
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\obj\Debug\net6.0\Adivina el numero.csproj.AssemblyReference.cache
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\obj\Debug\net6.0\Adivina el numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\obj\Debug\net6.0\Adivina el numero.AssemblyInfoInputs.cache
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\obj\Debug\net6.0\Adivina el numero.AssemblyInfo.cs
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\obj\Debug\net6.0\Adivina el numero.csproj.CoreCompileInputs.cache
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\bin\Debug\net6.0\Adivina el numero.exe
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\bin\Debug\net6.0\Adivina el numero.deps.json
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\bin\Debug\net6.0\Adivina el numero.runtimeconfig.json
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\bin\Debug\net6.0\Adivina el numero.dll
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\bin\Debug\net6.0\Adivina el numero.pdb
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\obj\Debug\net6.0\Adivina el numero.dll
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\obj\Debug\net6.0\refint\Adivina el numero.dll
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\obj\Debug\net6.0\Adivina el numero.pdb
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\obj\Debug\net6.0\Adivina el numero.genruntimeconfig.cache
+C:\Users\Ferchbo\source\repos\Adivina el numero\Adivina el numero\obj\Debug\net6.0\ref\Adivina el numero.dll
